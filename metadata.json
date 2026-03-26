@@ -1,0 +1,5 @@
+{
+  "name": "City Pulse: Political Leaning Map",
+  "description": "Explore the political leanings of cities across the globe using real-time data and interactive maps.",
+  "requestFramePermissions": ["geolocation"]
+}
